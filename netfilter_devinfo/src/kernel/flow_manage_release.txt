@@ -1,0 +1,21 @@
+#######################################################
+V1.0.0
+
+  function name:      
+  Version:       1.0.0
+  Released By:   arvik
+  Release Date:  20151228
+  Reason:  first version
+  
+  BUG FIXED:
+    1.  
+	
+  IMPROVEMENT:
+    1.    
+
+	
+  NEW FUNCTION:
+    1.    
+
+
+第一版本，源代码都有相应注释，以后维护会注明新增及删除哪些内容
